@@ -1,0 +1,434 @@
+[
+    {
+        "id": 1,
+        "type": "Activities",
+        "title": "Whale Shark Watching in Oslob",
+        "location": "Oslob, Cebu, Philippines",
+        "island": "Visayas",
+        "price": "₱1,500 per person",
+        "highlights": "Experience an unforgettable adventure as you swim alongside the majestic whale sharks in Oslob.",
+        "image": "/images/services/services-packages/1.jpg",
+        "get": [
+            "Life vest and snorkeling gear",
+            "Boat transfer to the whale shark area",
+            "Complimentary light snacks"
+        ],
+        "expect": [
+            "A safety briefing before swimming",
+            "Stunning underwater views of whale sharks.",
+            "Option to take photos and videos underwater"
+        ],
+        "duration": "2-3 hours",
+        "bestTime": [
+            "Early morning (6 AM - 9 AM) for fewer crowds",
+            "Dry season (November - May)",
+            "Weekdays to avoid weekend rush"
+        ],
+        "faq": [
+            {
+                "question": "Do I need to know how to swim?",
+                "answer": "No, life vests are provided for all participants."
+            },
+            {
+                "question": "Can I touch the whale sharks?",
+                "answer": "No, touching is strictly prohibited to protect marine life."
+            },
+            {
+                "question": "Are there age restrictions?",
+                "answer": "Kids above 6 years old are allowed with parental guidance."
+            },
+            {
+                "question": "Is transportation included?",
+                "answer": "No, but we offer transport services at an additional cost."
+            },
+            {
+                "question": "Do I need to bring my own snorkeling gear?",
+                "answer": "No, snorkeling gear is provided."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "type": "Activities",
+        "title": "Taal Volcano Trekking Adventure",
+        "location": "Taal, Batangas, Philippines",
+        "island": "Luzon",
+        "price": "₱2,200 per person",
+        "highlights": "Hike up the world’s smallest active volcano and enjoy breathtaking panoramic views of Taal Lake.",
+        "image": "/images/services/services-packages/2.jpg",
+        "get": [
+            "Guided trek to the crater",
+            "Safety gear and trekking pole",
+            "Complimentary bottled water"
+        ],
+        "expect": [
+            "A moderate-level hike with scenic landscapes",
+            "Possible steam vents along the trail",
+            "A stunning view of the crater lake"
+        ],
+        "duration": "3-4 hours",
+        "bestTime": [
+            "Early morning for cooler weather",
+            "December to March for the best climate",
+            "Avoid rainy season (June - October)"
+        ],
+        "faq": [
+            {
+                "question": "Is the trek beginner-friendly?",
+                "answer": "Yes, but some steep parts may require extra effort."
+            },
+            {
+                "question": "Can I bring my own snacks?",
+                "answer": "Yes, but avoid littering on the trail."
+            },
+            {
+                "question": "Is there a boat ride involved?",
+                "answer": "Yes, the package includes a short boat ride to the island."
+            },
+            {
+                "question": "Are pets allowed?",
+                "answer": "No, pets are not allowed due to safety concerns."
+            },
+            {
+                "question": "What should I wear?",
+                "answer": "Comfortable hiking clothes and sturdy footwear."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "type": "Activities",
+        "title": "Island Hopping in El Nido",
+        "location": "El Nido, Palawan, Philippines",
+        "island": "Luzon",
+        "price": "₱3,500 per person",
+        "highlights": "Explore the stunning lagoons, hidden beaches, and limestone cliffs of El Nido through an exciting island-hopping adventure.",
+        "image": "/images/services/services-packages/3.jpg",
+        "get": [
+            "Boat transfers to various islands",
+            "Buffet lunch and refreshments",
+            "Snorkeling gear rental"
+        ],
+        "expect": [
+            "Stunning white-sand beaches and crystal-clear waters",
+            "Snorkeling with diverse marine life",
+            "Relaxing time on secluded islands"
+        ],
+        "duration": "4-6 hours",
+        "bestTime": [
+            "Dry season (November - May)",
+            "Early morning for calmer seas",
+            "Weekdays to avoid tourist crowds"
+        ],
+        "faq": [
+            {
+                "question": "Are kids allowed?",
+                "answer": "Yes, but must be accompanied by an adult."
+            },
+            {
+                "question": "Is lunch included?",
+                "answer": "Yes, a buffet-style lunch is provided."
+            },
+            {
+                "question": "Can I rent a private boat?",
+                "answer": "Yes, private tours are available at an additional cost."
+            },
+            {
+                "question": "Do I need to bring my own snorkeling gear?",
+                "answer": "No, snorkeling gear is included."
+            },
+            {
+                "question": "What happens in case of bad weather?",
+                "answer": "The tour may be rescheduled or refunded."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "type": "Transportation",
+        "title": "Toyota Fortuner 2024 Rental",
+        "location": "Manila, Philippines",
+        "island": "Luzon",
+        "price": "₱5,000 per day",
+        "highlights": "Travel in style and comfort with our Toyota Fortuner 2024, a spacious SUV perfect for road trips and city drives.",
+        "image": "/images/services/services-packages/4.jpg",
+        "faq": [
+            {
+                "question": "Is fuel included in the rental?",
+                "answer": "No, fuel is not included."
+            },
+            {
+                "question": "Do you provide a driver?",
+                "answer": "Yes, with an additional fee."
+            },
+            {
+                "question": "Can I take the car to other provinces?",
+                "answer": "Yes, but with prior approval."
+            },
+            {
+                "question": "Is there a deposit required?",
+                "answer": "Yes, a refundable deposit applies."
+            },
+            {
+                "question": "Are pets allowed?",
+                "answer": "Only in a carrier."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "type": "Transportation",
+        "title": "Nissan Urvan Premium 2023 Rental",
+        "location": "Cebu, Philippines",
+        "island": "Visayas",
+        "price": "₱6,500 per day",
+        "highlights": "A spacious and comfortable van perfect for group travel, corporate trips, or family outings.",
+        "image": "/images/services/services-packages/5.jpg",
+        "faq": [
+            {
+                "question": "Is there a mileage limit?",
+                "answer": "Yes, 200 km per day. Excess mileage will incur additional charges."
+            },
+            {
+                "question": "Do you offer airport pick-up?",
+                "answer": "Yes, with prior booking."
+            },
+            {
+                "question": "Can we request a tour guide?",
+                "answer": "Yes, tour guides are available upon request."
+            },
+            {
+                "question": "Is insurance included?",
+                "answer": "Yes, but limited to third-party liability."
+            },
+            {
+                "question": "Do you allow long-term rentals?",
+                "answer": "Yes, special rates apply for long-term rentals."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "type": "Transportation",
+        "title": "Honda Click 160 Scooter Rental",
+        "location": "Boracay, Philippines",
+        "island": "Visayas",
+        "price": "₱800 per day",
+        "highlights": "Explore Boracay at your own pace with a fuel-efficient and easy-to-drive Honda Click 160 scooter.",
+        "image": "/images/services/services-packages/6.jpg",
+        "faq": [
+            {
+                "question": "Do I need a license to rent?",
+                "answer": "Yes, a valid driver’s license is required."
+            },
+            {
+                "question": "Is a helmet provided?",
+                "answer": "Yes, two helmets are included."
+            },
+            {
+                "question": "Can I take the scooter outside Boracay?",
+                "answer": "No, rentals are only valid within Boracay."
+            },
+            {
+                "question": "Is there a deposit required?",
+                "answer": "Yes, a refundable deposit applies."
+            },
+            {
+                "question": "Do you offer guided tours?",
+                "answer": "Yes, optional guided tours are available."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "type": "Hotels",
+        "title": "The Bellevue Resort",
+        "location": "Panglao, Bohol, Philippines",
+        "island": "Visayas",
+        "price": "₱8,500 per night",
+        "highlights": "A luxurious beachfront resort offering world-class amenities and breathtaking ocean views.",
+        "image": "/images/services/services-packages/7.jpg",
+        "faq": [
+            {
+                "question": "Is airport transfer included?",
+                "answer": "Yes, complimentary airport transfers are available."
+            },
+            {
+                "question": "Do you have free breakfast?",
+                "answer": "Yes, daily breakfast is included."
+            },
+            {
+                "question": "Is there a pool?",
+                "answer": "Yes, the resort has an infinity pool."
+            },
+            {
+                "question": "Are pets allowed?",
+                "answer": "No, pets are not allowed."
+            },
+            {
+                "question": "Is there Wi-Fi in the rooms?",
+                "answer": "Yes, free high-speed Wi-Fi is available."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "type": "Hotels",
+        "title": "Seda Lio Resort",
+        "location": "El Nido, Palawan, Philippines",
+        "island": "Luzon",
+        "price": "₱12,000 per night",
+        "highlights": "A modern beachfront resort in El Nido, offering luxurious accommodations with stunning sunset views.",
+        "image": "/images/services/services-packages/8.jpg",
+        "faq": [
+            {
+                "question": "Is there a bar in the hotel?",
+                "answer": "Yes, there is a beachfront bar."
+            },
+            {
+                "question": "Do rooms have air conditioning?",
+                "answer": "Yes, all rooms are fully air-conditioned."
+            },
+            {
+                "question": "Can I book island-hopping tours from the hotel?",
+                "answer": "Yes, the concierge can arrange tours."
+            },
+            {
+                "question": "Is breakfast included?",
+                "answer": "Yes, a buffet breakfast is provided."
+            },
+            {
+                "question": "Is there parking available?",
+                "answer": "Yes, free parking is available for guests."
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "type": "Hotels",
+        "title": "The Henry Hotel Manila",
+        "location": "Pasay, Manila, Philippines",
+        "island": "Luzon",
+        "price": "₱6,000 per night",
+        "highlights": "A charming boutique hotel in Manila offering a mix of classic and contemporary Filipino design.",
+        "image": "/images/services/services-packages/9.jpg",
+        "faq": [
+            {
+                "question": "Is there an in-house restaurant?",
+                "answer": "Yes, The Henry Café serves local and international dishes."
+            },
+            {
+                "question": "Do rooms have a minibar?",
+                "answer": "Yes, each room has a stocked minibar."
+            },
+            {
+                "question": "Is smoking allowed in the rooms?",
+                "answer": "No, all rooms are non-smoking."
+            },
+            {
+                "question": "Is there a gym?",
+                "answer": "No, but there is a swimming pool."
+            },
+            {
+                "question": "Do you offer laundry service?",
+                "answer": "Yes, laundry services are available."
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "type": "Events",
+        "title": "Boracay Summer Beach Festival",
+        "location": "Boracay, Philippines",
+        "island": "Visayas",
+        "price": "₱2,000 per person",
+        "highlights": "A vibrant summer festival featuring live music, beach games, and local food stalls in Boracay.",
+        "image": "/images/services/services-packages/10.jpg",
+        "faq": [
+            {
+                "question": "Is food included in the ticket?",
+                "answer": "No, but food stalls are available."
+            },
+            {
+                "question": "Can I bring my own drinks?",
+                "answer": "No, outside drinks are not allowed."
+            },
+            {
+                "question": "Is there a dress code?",
+                "answer": "Casual beachwear is recommended."
+            },
+            {
+                "question": "Are kids allowed?",
+                "answer": "No, this event is 18+."
+            },
+            {
+                "question": "Is re-entry allowed?",
+                "answer": "No, single-entry only."
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "type": "Events",
+        "title": "Sinulog Grand Street Parade",
+        "location": "Cebu, Philippines",
+        "island": "Visayas",
+        "price": "₱1,500 per person",
+        "highlights": "Join Cebu’s biggest festival, the Sinulog Grand Parade, celebrating culture and devotion with colorful street dances and lively performances.",
+        "image": "/images/services/services-packages/11.jpg",
+        "faq": [
+            {
+                "question": "Is the event free to watch?",
+                "answer": "Yes, but VIP seating and guided tours require a ticket."
+            },
+            {
+                "question": "Can I participate in the street dancing?",
+                "answer": "Yes, some areas allow public participation."
+            },
+            {
+                "question": "What should I wear?",
+                "answer": "Comfortable clothes and walking shoes."
+            },
+            {
+                "question": "Is the event family-friendly?",
+                "answer": "Yes, but expect large crowds."
+            },
+            {
+                "question": "Are food and drinks allowed?",
+                "answer": "Yes, but food stalls are available throughout the event."
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "type": "Events",
+        "title": "Manila Food & Wine Expo",
+        "location": "Manila, Philippines",
+        "island": "Luzon",
+        "price": "₱3,000 for a 3-day pass / ₱1,200 for a single-day ticket",
+        "highlights": "A premium event showcasing the best local and international cuisine, wine tasting, and live cooking demonstrations by top chefs.",
+        "image": "/images/services/services-packages/12.jpg",
+        "faq": [
+            {
+                "question": "Are kids allowed?",
+                "answer": "Yes, but wine-tasting is for 18+ only."
+            },
+            {
+                "question": "Do I need to bring cash?",
+                "answer": "Some vendors accept cashless payments."
+            },
+            {
+                "question": "Is parking available?",
+                "answer": "Yes, the venue has ample parking."
+            },
+            {
+                "question": "Can I bring my own food?",
+                "answer": "No, outside food is not allowed."
+            },
+            {
+                "question": "Are tickets refundable?",
+                "answer": "No, but they are transferable."
+            }
+        ]
+    }
+]
