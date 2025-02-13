@@ -11,7 +11,6 @@ export async function middleware(req: NextRequest) {
         '/users-analytics',
         '/sales-transactions',
         '/product-analysis',
-        '/financial-overview',
     ];
 
     const protectedUserRoutes = ['/profile', '/favorites', '/bookings'];

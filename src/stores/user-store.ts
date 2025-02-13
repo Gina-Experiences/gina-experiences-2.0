@@ -57,16 +57,11 @@ const userStore = create<UserStore>()(
                 set({ isLoading: true, error: null });
                 try {
                     const { user } = await getUserById(userId);
-                    console.log('[Zustand] User fetched:', user);
                     set({
                         user,
                         isAdmin: user?.role === 'admin',
                         isLoading: false,
                     });
-                    console.log(
-                        '[Zustand] isAdmin set to:',
-                        user?.role === 'admin'
-                    );
                 } catch (error) {
                     console.error('[Zustand] Error fetching user:', error);
                     set({
@@ -128,7 +123,6 @@ const userStore = create<UserStore>()(
                 set({ isLoading: true, error: null });
                 try {
                     const { users } = await getAllUsers();
-                    console.log('[Zustand] All Users:', users); // Check if users are fetched
                     set({ users, isLoading: false });
                 } catch (error) {
                     console.error('[Zustand] Error fetching all users:', error);
